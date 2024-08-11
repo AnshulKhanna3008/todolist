@@ -111,6 +111,7 @@ ul li span:hover {
     background: #edeef0;
 }
 h3 {
+    align-items: center;
     text-align: center;
     margin-top: auto;
 }
