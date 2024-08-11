@@ -110,3 +110,7 @@ ul li span {
 ul li span:hover {
     background: #edeef0;
 }
+h3 {
+    text-align: center;
+    margin-top: auto;
+}
